@@ -2,7 +2,7 @@
 <h1 align="center">Hey There 👋, I'm Samaksh </h1>
 <h3 align="center"> A Full-Stack Developer Who Love's To Build Usefull Webapps.</h3>
 
-### 🌱 What am I doing?
+### 🌱 What I am doing?
 - 🔭 I’m currently working on a *(Resume building site)* feel free to collaborate with me on this project and several others 
 - 👯 Always looking for a project partner to collaborate on any web-dev related projects.
 - 🌱 I’m currently learning React.js and Advanced DSA
