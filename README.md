@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey There 👋, I'm Samaksh </h1>
-<h3 align="center"> A Full-Stack Developer Who Love's To Build Useful Webapps.</h3>
+<h3 align="center"> A <strong> Self-taught Full-Stack Developer <strong/> Who Love's To Build Useful Webapps.</h3>
 
 ### 🌱 What I am doing?
 - 🔭 I’m currently working on a *(Resume building site)* feel free to collaborate with me on this project and several others 
