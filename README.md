@@ -3,11 +3,12 @@
 <h3 align="center"> A <strong> Self-taught Full-Stack Developer <strong/> Who Love's To Build Useful Webapps.</h3>
 
 ### 🌱 What I am doing?
-- 🔭 I’m currently working on a *(Resume building site)* feel free to collaborate with me on this project and several others 
+- 🔭 I’m currently working on a *(Stock Recommender Web App)* feel free to collaborate with me on this project and several others 
 - 👯 Always looking for a project partner to collaborate on any web-dev related projects.
 - 🌱 I’m currently learning React.js and Advanced DSA
-- 💬 Ask me about anime,stock market,dota_2 and coding
+- 💬 Ask me about <strong> anime,stock market,dota_2 </strong> and <strong> CODING NEW IDEAS TO LIFE </strong>
 - 🎓 Student at Nirma University
+- PS:-Samaksh love's coffee.
 
 ### 📫 How to reach me?
 - If you would like to discuss these things, you can contact me on [Instagram](https://www.instagram.com/mittal.sam/) or [LinkedIn](https://www.linkedin.com/in/samaksh-mittal-967447168/) or mail me at sam.mittal44@gmail.com.
