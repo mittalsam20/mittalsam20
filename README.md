@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React.js and Advanced DSA
 - 💬 Ask me about <strong> anime,stock market,dota_2 </strong> and <strong> CODING NEW IDEAS TO LIFE </strong>
 - 🎓 Student at Nirma University
-- PS:-Samaksh love's coffee.
+     PS:-Samaksh love's coffee.
 
 ### 📫 How to reach me?
 - If you would like to discuss these things, you can contact me on [Instagram](https://www.instagram.com/mittal.sam/) or [LinkedIn](https://www.linkedin.com/in/samaksh-mittal-967447168/) or mail me at sam.mittal44@gmail.com.
