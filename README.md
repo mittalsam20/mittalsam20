@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning React.js and Advanced DSA
 - 💬 Ask me about <strong> anime,stock market,dota_2 </strong> and <strong> CODING NEW IDEAS TO LIFE </strong>
 - 🎓 Student at Nirma University
+     <br>
      PS:-Samaksh love's coffee.
 
 ### 📫 How to reach me?
