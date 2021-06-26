@@ -13,7 +13,7 @@
 
 ### 📫 How to reach me?
 - If you would like to discuss these things, you can contact me on [Instagram](https://www.instagram.com/mittal.sam/) or [LinkedIn](https://www.linkedin.com/in/samaksh-mittal-967447168/) or mail me at sam.mittal44@gmail.com.
-- I am always looking for something exciting to build. So, If you have a project in mind and want to make it with me then just leave me a message.
+- I am always looking for something exciting to build. So, If you have a project in mind and want to build it with me then just leave me a message.
 ##
 ### [![rocket.gif](https://s4.gifyu.com/images/rocket.gif)](https://gifyu.com/image/ZySM) Tech Stack
 
