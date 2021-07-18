@@ -7,7 +7,6 @@
 - 👯 Always looking for a project partner to collaborate on any web-dev related projects.
 - 🌱 I’m currently learning React.js and Advanced DSA
 - 💬 Ask me about <strong> anime,stock market,dota_2 </strong> and <strong> CODING NEW IDEAS TO LIFE </strong>
-- 🎓 Student at Nirma University
      <br>
      PS:-Samaksh love's coffee.
 
