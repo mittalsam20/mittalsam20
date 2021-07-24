@@ -5,7 +5,7 @@
 ### 🌱 What I am doing?
 - 🔭 I’m currently working on a *(Stock Recommender Web App)* feel free to collaborate with me on this project and several others 
 - 👯 Always looking for a project partner to collaborate on any web-dev related projects.
-- 🌱 I’m currently learning React.js and Advanced DSA
+- 🌱 I’m currently learning  Advanced DSA
 - 💬 Ask me about <strong> anime,stock market,dota_2 </strong> and <strong> CODING NEW IDEAS TO LIFE </strong>
      <br>
      PS:-Samaksh love's coffee.
