@@ -3,9 +3,9 @@
 <h3 align="center"> A <strong> Self-taught Full-Stack Developer <strong/> Who Love's To Build Useful Webapps.</h3>
 
 ### 🌱 What I am doing?
-- 🔭 I’m currently working on a *(Stock Recommender Web App)* feel free to collaborate with me on this project and several others 
+- 🔭 I’m currently working on a *(Note-Chrome-Extension)* feel free to collaborate with me on this project and several others 
 - 👯 Always looking for a project partner to collaborate on any web-dev related projects.
-- 🌱 I’m currently learning  Advanced DSA
+- 🌱 I’m currently learning Redux and Advanced DSA
 - 💬 Ask me about <strong> anime,stock market,dota_2 </strong> and <strong> CODING NEW IDEAS TO LIFE </strong>
      <br>
      PS:-Samaksh love's coffee.
