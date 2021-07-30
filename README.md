@@ -3,12 +3,12 @@
 <h3 align="center"> A <strong> Self-taught Full-Stack Developer <strong/> Who Love's To Build Useful Webapps.</h3>
 
 ### 🌱 What I am doing?
-- 🔭 I’m currently working on a *(Note-Chrome-Extension)* feel free to collaborate with me on this project and several others 
-- 👯 Always looking for a project partner to collaborate on any web-dev related projects.
-- 🌱 I’m currently learning Redux and Advanced DSA
+- 🔭 I’m currently working on a *(Note-Chrome-Extension)* feel free to collaborate with me. 
+- 👯 Always looking for a project partner to collaborate on any web-dev and IoT related projects.
+- 🌱 I’m currently learning Redux and Advanced DSA.
 - 💬 Ask me about <strong> anime,stock market,dota_2 </strong> and <strong> CODING NEW IDEAS TO LIFE </strong>
      <br>
-     PS:-Have a look at my <a href="https://mittalsam.gatsbyjs.io/">Portfolio</a>
+- Have a look at my <a href="https://mittalsam.gatsbyjs.io/" target="_blank" >Portfolio</a> for live preview of my  work.
 
 ### 📫 How to reach me?
 - If you would like to discuss these things, you can contact me on [Instagram](https://www.instagram.com/mittal.sam/) or [LinkedIn](https://www.linkedin.com/in/samaksh-mittal-967447168/) or mail me at sam.mittal44@gmail.com.
