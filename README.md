@@ -2,18 +2,14 @@
 <h1 align="center">Hey There 👋, I'm Samaksh </h1>
 <h3 align="center"> A <strong> Self-taught Full-Stack Developer <strong/> Who Love's To Build Useful Webapps.</h3>
 
-### 🌱 What I am doing?
-- 🔭 I’m currently working on a *(Note-Chrome-Extension)* feel free to collaborate with me. 
+### 🌱 What I am doing? 
 - 👯 Always looking for a project partner to collaborate on any web-dev and IoT related projects.
-- 🌱 I’m currently learning Redux and Advanced DSA.
+- 🌱 I’m currently learning graphQL and AWS.
 - 💬 Ask me about <strong> anime,stock market,dota_2 </strong> and <strong> CODING NEW IDEAS TO LIFE </strong>
      <br>
 - Have a look at my <a href="https://www.mittalsam.me/" target="_blank" >Portfolio</a> for live preview of my  work.
-
-### 📫 How to reach me?
-- If you would like to discuss these things, you can contact me on [Instagram](https://www.instagram.com/mittal.sam/) or [LinkedIn](https://www.linkedin.com/in/samaksh-mittal-967447168/) or mail me at sam.mittal44@gmail.com.
-- I am always looking for something exciting to build. So, If you have a project in mind and want to build it with me then just leave me a message.
-##
+- Reach me on [Instagram](https://www.instagram.com/mittal.sam/) or [LinkedIn](https://www.linkedin.com/in/samaksh-mittal-967447168/) or mail me at sam.mittal44@gmail.com.
+     
 ### [![rocket.gif](https://s4.gifyu.com/images/rocket.gif)](https://gifyu.com/image/ZySM) Tech Stack
      
 - Web-Development &nbsp;    
