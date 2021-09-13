@@ -2,7 +2,6 @@
 <h1 align="center">Hey There 👋, I'm Samaksh </h1>
 <h3 align="center"> A <strong> Self-taught Full-Stack Developer <strong/> Who Love's To Build Useful Webapps.</h3>
 
-### 🌱 What I am doing? 
 - 👯 Always looking for a project partner to collaborate on any web-dev and IoT related projects.
 - 🌱 I’m currently learning graphQL and AWS.
 - 💬 Ask me about <strong> anime,stock market,dota_2 </strong> and <strong> CODING NEW IDEAS TO LIFE </strong>
