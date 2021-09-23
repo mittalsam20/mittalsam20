@@ -15,7 +15,12 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=blue)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=#3C873A)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=yellow) &nbsp; &nbsp; &nbsp; 
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=yellow) &nbsp; &nbsp; 
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=purple)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=purple)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=orange) 
+     <br>
+     
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=centerme&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) &nbsp; &nbsp; &nbsp; 
