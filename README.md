@@ -6,7 +6,8 @@
 - 💬 willing to talk about <strong> anime,stock market,dota_2 </strong> and <strong> CODING NEW IDEAS TO LIFE </strong>
      <br>
 - Social Links:- 
-     - <a href="https://www.mittalsam.me/" target="_blank" >Portfolio</a>
+     - <a href="https://sammittal.netlify.app/" target="_blank" >Portfolio</a>
+     - <a href="[https://sammittal.netlify.app/](https://drive.google.com/drive/u/1/folders/10F-fnNIVhACOk1b2x-y4dIO7bj56pqpU)" target="_blank" >Resume</a>
      - [Instagram](https://www.instagram.com/mittal.sam/) 
      - [LinkedIn](https://www.linkedin.com/in/samaksh-mittal-967447168/) 
      - sam.mittal44@gmail.com.
