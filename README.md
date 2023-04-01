@@ -27,9 +27,12 @@
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=centerme&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) &nbsp; &nbsp; &nbsp; 
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Scss](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass)
   ![Materialui](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui&logoColor=blue)
   ![TailwindCss](https://img.shields.io/badge/-TailwindCss-333333?style=flat&logo=tailwindcss)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  
+  
      
 - Programming Languages <br>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
