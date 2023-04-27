@@ -2,7 +2,7 @@
 <h1 align="center">Hey There 👋, I'm Samaksh </h1>
 <h3 align="center"> A <strong> Self-taught Full-Stack Developer <strong/> Who Love's To Build Useful Webapps.</h3>
 
-- 🌱 I’m currently learning solidity and planning to enter in web3 space.
+- 🌱 I’m currently learning solidity and etherum.js planning to enter in web3 space.
 - 💬 willing to talk about <strong> anime,stock market,dota_2 </strong> and <strong> CODING NEW IDEAS TO LIFE </strong>
      <br>
 - contactMe:-&nbsp;
