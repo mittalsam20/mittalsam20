@@ -3,7 +3,7 @@
 <h3 align="center"> A <strong> Self-taught Full-Stack Developer <strong/> Who Love's To Build Useful Webapps.</h3>
 
 - 🌱 I’m currently learning solidity and etherum.js planning to enter in web3 space.
-- 💬 willing to talk about <strong> anime,stock market,dota_2 </strong> and <strong> CODING NEW IDEAS TO LIFE </strong>
+- 💬 willing to talk about <strong> anime, stock market, dota2, </strong> and <strong> CODING NEW IDEAS TO LIFE </strong>
      <br>
 - contactMe:-&nbsp;
      <a href="https://sammittal.netlify.app/" target="_blank" >Portfolio</a> &nbsp;
@@ -31,7 +31,11 @@
   ![Materialui](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui&logoColor=blue)
   ![TailwindCss](https://img.shields.io/badge/-TailwindCss-333333?style=flat&logo=tailwindcss)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+     <br>
   
+
+  ![WebPack](https://img.shields.io/badge/-WebPack-333333?style=flat&logo=webpack)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   
      
 - Programming Languages <br>
