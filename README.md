@@ -7,8 +7,8 @@
      <br>
 - contactMe:-&nbsp;
      <a href="https://sammittal.netlify.app/" target="_blank" >Portfolio</a> &nbsp;
-     <a href="https://drive.google.com/drive/u/1/folders/10F-fnNIVhACOk1b2x-y4dIO7bj56pqpU" target="_blank" >Resume</a> &nbsp;
-     [LinkedIn](https://www.linkedin.com/in/samaksh-mittal-967447168/) &nbsp;
+     <a href="https://drive.google.com/file/d/1rVo81b7N_Iufahz24gke-exJxu4xHW9y/view" target="_blank" >Resume</a> &nbsp;
+     [LinkedIn](https://www.linkedin.com/in/samaksh-mittal-511335290/) &nbsp;
      sam.mittal44@gmail.com
      
 ### [![rocket.gif](https://s4.gifyu.com/images/rocket.gif)](https://gifyu.com/image/ZySM) Tech Stack
