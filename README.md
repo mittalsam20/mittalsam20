@@ -1,9 +1,10 @@
 
 <h1 align="center">Hey There 👋, I'm Samaksh </h1>
-<h3 align="center"> A <strong> Self-taught Full-Stack Developer <strong/> Who Love's To Build Useful Webapps.</h3>
+<h3 align="center"> A Frontend Heavy Full Stack Developer, Who Loves To Build impactful product/project.</h3>
 
-- 🌱 I’m currently learning solidity and etherum.js planning to enter in web3 space.
-- 💬 willing to talk about <strong> anime, stock market, dota2, </strong> and <strong> CODING NEW IDEAS TO LIFE </strong>
+- 🌱 Anytime (I mean <strong>Anytime</strong>) eager to collaborate with fellow devs on impactful and meaningful products/projects.
+     - (Feel free to connect) Maybe we can build something great.
+- 💬 can have a deep talk when it is related to <strong>Building something</strong> or anime, share market, dota2.</strong>
      <br>
 - contactMe:-&nbsp;
      <a href="https://sammittal.netlify.app/" target="_blank" >Portfolio</a> &nbsp;
@@ -17,7 +18,9 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=blue)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=purple) &nbsp; &nbsp; 
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=purple)
+  ![ReactQuery](https://img.shields.io/badge/-ReactQuery-333333?style=flat&logo=reactquery)
+  ![Zustand](https://img.shields.io/badge/-Zustand-333333?style=flat&logo=Zustand) &nbsp; &nbsp; 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=#3C873A)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=yellow)
