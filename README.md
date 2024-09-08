@@ -2,10 +2,10 @@
 <h2 align="center">Hey There 👋, I'm Samaksh </h1>
 <h3 align="center"> A Frontend Heavy Full Stack <s>Developer</s> <b>Engineer</b>, Who Love's To Build Impactful Product/project.</h3>
 
-- Anytime (I mean <strong>Anytime</strong>) eager to collaborate with devs on impactful products/projects. (Feel free to connect)
-- Talks about <strong>Building impactful products/projects</strong> or anime, share market, dota2.</strong>
+- Eager to collaborate on impactful products/projects.
+- Talks about <strong>Indie Hacking</strong> or anime, share market, dota2.</strong>
      <br>
-- contactMe:-&nbsp;
+- Feel free to connect:-&nbsp;
      <a href="https://sammittal.netlify.app/" target="_blank" >Portfolio</a> &nbsp;
      <a href="https://drive.google.com/file/d/1rVo81b7N_Iufahz24gke-exJxu4xHW9y/view" target="_blank" >Resume</a> &nbsp;
      [LinkedIn](https://www.linkedin.com/in/samaksh-mittal-511335290/) &nbsp;
