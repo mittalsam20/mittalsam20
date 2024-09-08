@@ -1,10 +1,9 @@
 
-<h1 align="center">Hey There 👋, I'm Samaksh </h1>
-<h3 align="center"> A Frontend Heavy Full Stack Developer, Who Loves To Build impactful product/project.</h3>
+<h2 align="center">Hey There 👋, I'm Samaksh </h1>
+<h3 align="center"> A Frontend Heavy Full Stack <s>Developer</s> <b>Engineer</b>, Who Love's To Build Impactful Product/project.</h3>
 
-- 🌱 Anytime (I mean <strong>Anytime</strong>) eager to collaborate with fellow devs on impactful and meaningful products/projects.
-     - (Feel free to connect) Maybe we can build something great.
-- 💬 can have a deep talk when it is related to <strong>Building something</strong> or anime, share market, dota2.</strong>
+- Anytime (I mean <strong>Anytime</strong>) eager to collaborate with devs on impactful products/projects. (Feel free to connect)
+- Talks about <strong>Building impactful products/projects</strong> or anime, share market, dota2.</strong>
      <br>
 - contactMe:-&nbsp;
      <a href="https://sammittal.netlify.app/" target="_blank" >Portfolio</a> &nbsp;
@@ -12,7 +11,7 @@
      [LinkedIn](https://www.linkedin.com/in/samaksh-mittal-511335290/) &nbsp;
      sam.mittal44@gmail.com
      
-### [![rocket.gif](https://s4.gifyu.com/images/rocket.gif)](https://gifyu.com/image/ZySM) Tech Stack
+## Tech Stack
      
 - Web-Development &nbsp;    
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=blue)
